@@ -4,3 +4,7 @@
 filename = input("Input the Filename: ")# here the user will input a filename
 f_extns = filename.split(".")# this function is used for printing extension of a file in python
 print ("The extension of the file is : " + repr(f_extns[-1])) # the extention of the filename entered by the user is printed
+
+#out put
+#Input the Filename: abc.java
+#the extension of the file is: java
